@@ -1,0 +1,19 @@
+.item {
+    padding: 15px 10px;
+  }
+  
+  .img {
+    width: 100%;
+  }
+  
+  .cardContent {
+    text-align: center;
+  }
+  
+  .btn {
+    padding: 5px 15px;
+    border-radius: 10px;
+    border: 1px solid black;
+    cursor: pointer;
+  }
+  
